@@ -1,1 +1,1 @@
-# A simple repository to save my activities of web programmation
+# A simple repository to save my activities of web programming
