@@ -87,6 +87,7 @@ p {
   width: 50%;
   float: left;
   margin-left: 7%;
+  max-width: 700px;
 }
 #productPhotos img {
   width: 10%;
